@@ -20,12 +20,3 @@
 
 1. 发送图片 + `#动漫识别`
 2. 引用一条包含图片的消息 + `#动漫识别`
-
-## 致谢
-
-- [trace.moe](https://trace.moe/) - 提供API支持
-- [TRSS-Yunzai](https://github.com/TimeRainStarSky/Yunzai) - 提供框架支持
-
-## 许可证
-
-MIT
